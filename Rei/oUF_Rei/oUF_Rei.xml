@@ -1,0 +1,18 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="Rei_Config.lua"/>
+	<Script file="Core\Rei_AuraFilter.lua"/>
+	<Script file="Core\Rei_Tags.lua"/>
+	<Script file="Element\Indicators.lua"/>
+	<Script file="Element\AuraWatchers.lua"/>
+	<Script file="Element\SwingBar.lua"/>
+	<Script file="Element\TotemBar.lua"/>
+	<Script file="Element\Warning.lua"/>
+	<Script file="Core\Rei_Lib.lua"/>
+	<Script file="Core\Rei_CastBar.lua"/>
+	<Script file="Core\Rei_RaidTags.lua"/>
+	<Script file="Core\Rei_Raid.lua"/>
+	<Script file="Core\Rei_Party.lua"/>
+	<Script file="Core\Rei_Core.lua"/>
+	<Script file="Element\Frame.lua"/>
+	<Include file="FCS\FCS.xml"/>
+</Ui>

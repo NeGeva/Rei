@@ -1,0 +1,12 @@
+## Interface: 40300
+## Title: |cff58F4B3R|rei
+## Notes: Rei_UI
+## Credits to: Dawn, Tukz, Shestak, Haste, Roth, P3lim, Monolit, AlleyKat.
+## Author: NeGeva
+## SavedVariables:
+## SavedVariablesPerCharacter:
+## OptionalDeps:
+## X-oUF: oUFLangley
+
+Rei.xml
+## oUF_Rei\oUF_Rei.xml
